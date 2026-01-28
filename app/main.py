@@ -1,3 +1,4 @@
+
 # app/main.py
 """
 Smart Data Processing & Analytics Assistant — Professional Dashboard Style (Option C)
@@ -20,13 +21,117 @@ import numpy as np
 import streamlit as st
 import plotly.express as px
 import streamlit.components.v1 as components
-# ---------------- APP FLOW STATE ----------------
+import streamlit as st
+import time
+
+import streamlit as st
+import time
+import time
+import streamlit as st
+
+# ================= SESSION INIT =================
 if "page" not in st.session_state:
     st.session_state.page = "splash"
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
+
+# ================= SPLASH SCREEN =================
+def splash_screen():
+    st.markdown(
+        """
+        <style>
+        .splash-container{
+            height:100vh;
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            align-items:center;
+            animation:fadeIn 1.2s ease-in-out;
+        }
+        @keyframes fadeIn{
+            from{opacity:0; transform:translateY(40px);}
+            to{opacity:1; transform:translateY(0);}
+        }
+        .title{
+            font-size:48px;
+            font-weight:700;
+            text-align:center;
+        }
+        .subtitle{
+            font-size:22px;
+            margin-top:14px;
+            color:#555;
+            animation:fadeSub 2s ease-in-out;
+        }
+        @keyframes fadeSub{
+            from{opacity:0;}
+            to{opacity:1;}
+        }
+        </style>
+
+        <div class="splash-container">
+            <div class="title">
+                📊 Smart Data Processing & Analytics Assistant
+            </div>
+            <div class="subtitle">
+                Professional Analytics • AI Insights • Smart Charts
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    time.sleep(2.5)
+    st.session_state.page = "login"
+    st.rerun()
+
+
+# ================= LOGIN SCREEN =================
+def login_screen():
+    st.markdown(
+        """
+        <style>
+        .login-box{
+            max-width:360px;
+            margin:auto;
+            margin-top:120px;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown('<div class="login-box">', unsafe_allow_html=True)
+    st.markdown("## 🔐 Login")
+
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+
+    if st.button("Login"):
+        if username == "sara" and password == "sara":
+            st.session_state.logged_in = True
+            st.session_state.page = "dashboard"
+            st.rerun()
+        else:
+            st.error("Invalid username or password")
+
+    st.markdown("</div>", unsafe_allow_html=True)
+# ================= ROUTER =================
+if st.session_state.page == "splash":
+    splash_screen()
+
+elif st.session_state.page == "login":
+    login_screen()
+
+elif st.session_state.page == "dashboard":
+    if not st.session_state.logged_in:
+        st.session_state.page = "login"
+        st.rerun()
+        # ❌ BLOCK DASHBOARD UNTIL LOGIN
+if st.session_state.page != "dashboard":
+    st.stop()
 try:
     from sklearn.linear_model import LinearRegression
     SKLEARN_AVAILABLE = True
