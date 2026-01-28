@@ -1,0 +1,25 @@
+bu,sku,brand,model,avg_price
+Bakery,B01,Britannia,Pineapple Cake 55g,25
+Bakery,B02,Britannia,Fruity Fun Cake 55g,20
+Bakery,B03,Britannia,Orange Bites Cake 55g,25
+Bakery,B04,Britannia,Choco Chill Cake 55g,30
+Bakery,B05,Sunfeast,Caker Trinity Cake,60
+Bakery,B06,Parle ,Happy Happy Cakes,10
+Milk,M01,Amul,Amul Milk 1/2 Litre,26
+Milk,M02,Mother Dairy,Mother Dairy Milk 1/2 Litre,28
+Milk,M03,Milk Food,Milk Food Milk 1/2 Litre,33
+Milk,M04,Doody,Doody Milk 1/2 Litre,30
+Milk,M05,Cow ,Cow Milk 1/2 Litre,32
+Rice,R01,Johri,Johri Rice 1 kg,40
+Rice,R02,Satake,Satake Rice 1 kg,55
+Rice,R03,Green India,Green India Rice 1 kg,30
+Rice,R04,Basmati,Basmati Rice 1 kg,70
+Rice,R05,Gia International,Gia International Rice 1 kg,100
+Pulses,P01,Vedaka,Chana Daal 1 kg,70
+Pulses,P02,Amazon Brand,Chole 1 kg,120
+Pulses,P03,Dhiman Agro,Moong Daal 1 kg,65
+Cosmetics,C01,Kosmetics Lane,Moisturizer,282
+Cosmetics,C02,Jas Raney and Company,Matte Waterproof Lipstick,499
+Cosmetics,C03,Vcos Cosmetics,Skin Tint for Women,319
+Cosmetics,C04,Dove ,"Pack of 4, Bath Soap",231
+Cosmetics,C05,Pantene,Shampoo 1 litre,661

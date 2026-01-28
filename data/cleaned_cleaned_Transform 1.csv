@@ -1,0 +1,163 @@
+s.no,employee_name,building,employee_code,department,status,hire_date,salary
+1,abdul junid,Main,E0346,Account Management,Full Time,2007-02-24,39000
+2,abdul samad k.e,North,E0521,Manufacturing,Full Time,2010-01-20,49260
+3,aby mathew ,North,E0283,Manufacturing,Full Time,2006-03-31,79730
+4,adarsh bs ,North,E0691,Manufacturing,Full Time,2012-01-10,82500
+5,agin.s,North,E9932,Manufacturing,Full Time,2011-09-21,35045
+6,amal mohanan,North,E0402,Manufacturing,Full Time,2007-09-10,62688
+7,amal sunny,North,E0611,Manufacturing,Hourly,2010-12-03,33508
+8,ambady k.a,North,E0362,Manufacturing,Full Time,2007-04-02,23320
+9,ambili v.s,North,E0594,Manufacturing,Contract,2010-10-11,52940
+10,anantha krishnan cv,North,E0223,Manufacturing,Full Time,2003-03-31,21648
+11,anie jose ,South,E0015,Manufacturing,Full Time,1998-03-07,12836
+12,anu yohannan,North,E0557,Manufacturing,Full Time,2010-06-03,47340
+13,ashwathy ,North,E0252,Manufacturing,Full Time,2004-08-28,86200
+14,chithra sunil,North,E0465,Manufacturing,Full Time,2008-09-05,69320
+15,cleffin ks,North,E0643,Manufacturing,Full Time,2011-04-01,47440
+16,darshan.aj ,North,E0670,Manufacturing,Half-Time,2011-08-24,30445
+17,dayana k.p,North,E0012,Manufacturing,Contract,1998-02-22,85480
+18,dhaneesh.p.j ,North,E0395,Manufacturing,Full Time,2007-07-30,26484
+19,elizabeth joseph ,North,E0640,Manufacturing,Full Time,2011-03-22,86500
+20,elizabeth k j ,North,E0627,Manufacturing,Hourly,2011-01-31,28424
+21,geethu raju,North,E0518,Manufacturing,Full Time,2009-12-19,25245
+22,greeshma gireesh,North,E0124,Manufacturing,Full Time,1999-10-23,43460
+23,jaison chacko,North,E0135,Manufacturing,Hourly,1999-12-25,61860
+24,jibin george,North,E0077,Manufacturing,Full Time,1999-02-04,46360
+25,jilu mol kv,North,E0696,Creative,Full Time,2012-01-28,52940
+26,jisha mary james ,North,E0037,Manufacturing,Contract,1998-07-16,68260
+27,jishnu raj p.r,North,E0100,Manufacturing,Full Time,1999-06-18,39764
+28,jishnu.s,North,E0517,Manufacturing,Full Time,2009-12-05,28680
+29,jithu chandran,North,E0248,Manufacturing,Full Time,2004-06-04,49350
+30,jithu raju,North,E0014,Manufacturing,Full Time,1998-03-03,82110
+31,joby joy,North,E0607,Manufacturing,Hourly,2010-11-12,35312
+32,kiran krishnan,North,E0380,Environmental Compliance,Contract,2007-06-29,45770
+33,lakshmi s.kartha,North,E0663,Manufacturing,Full Time,2011-07-21,69400
+34,lekshmi sureshkumar,North,E0430,Manufacturing,Full Time,2008-02-14,36630
+35,libin sebastian,North,E0487,Manufacturing,Contract,2008-11-16,63610
+36,mahesh m c ,North,E0488,Environmental Health/Safety,Half-Time,2008-11-16,39515
+37,mahesh.p.m,North,E0522,Facilities/Engineering,Full Time,2010-01-22,77350
+38,maheswari nagarajan,North,E0198,Manufacturing,Full Time,2001-12-24,12545
+39,manjusha rajesh,North,E0720,Manufacturing,Full Time,2012-07-21,62780
+40,manu .g.nair,Taft,E0240,Manufacturing,Full Time,2003-11-18,75176
+41,mini charley ,North,E0115,Manufacturing,Full Time,1999-09-03,60800
+42,mithra t s ,North,E0123,Facilities/Engineering,Contract,1999-10-22,23810
+43,muhammed rafi.n.l,North,E0608,Facilities/Engineering,Full Time,2010-11-19,77820
+44,nisha k p,North,E0541,Facilities/Engineering,Full Time,2010-04-02,35300
+45,prasannakumari k p ,North,E0575,Facilities/Engineering,Full Time,2010-08-09,32640
+46,prasanth .j .o,North,E0562,Facilities/Engineering,Full Time,2010-06-22,20040
+62,rony t mathew ,North,E0132,Manufacturing,Full Time,1999-12-09,41615
+63,sabin sebastian,North,E0564,Manufacturing,Full Time,2010-07-02,75780
+64,sandhya a,North,E0588,Manufacturing,Full Time,2010-09-26,33970
+65,sandya  s ,North,E0657,Manufacturing,Full Time,2011-06-16,32140
+66,sarath s.g,North,E0339,Manufacturing,Full Time,2007-01-27,33120
+67,sarathlal.a.m,North,E0152,Manufacturing,Full Time,2000-04-26,77760
+68,anjali.m.b ,North,E0219,Manufacturing,Full Time,2003-01-20,31970
+69,anjana binu ,North,E0184,Manufacturing,Full Time,2001-06-26,66010
+70,aparna thampi,North,E0155,Manufacturing,Full Time,2000-05-26,65320
+71,aravind cm,North,E0710,Manufacturing,Full Time,2012-04-19,46220
+72,asna .t.k,North,E0426,Manufacturing,Full Time,2008-01-10,31255
+73,athul m.k,North,E0273,Manufacturing,Full Time,2006-03-08,78710
+74,beena chandrasekaran ,North,E0418,Manufacturing,Half-Time,2007-12-01,46095
+75,binil babu,North,E0147,Manufacturing,Half-Time,2000-03-19,46710
+76,chippy sasi ,North,E0033,Manufacturing,Contract,1998-06-26,71710
+77,cleetus dan ,North,E0451,Manufacturing,Contract,2008-07-10,64720
+78,daris george,North,E0470,Manufacturing,Full Time,2008-09-29,43320
+79,deepa thankachan ,North,E0563,Manufacturing,Full Time,2010-07-01,33752
+80,dibin surendran,North,E0127,Manufacturing,Full Time,1999-10-30,44220
+81,dijoy lopez tj ,North,E0453,Manufacturing,Contract,2008-07-19,45105
+82,divya vikraman ,North,E0694,Manufacturing,Hourly,2012-01-17,14568
+83,divyamol.c.s,North,E0023,Manufacturing,Full Time,1998-05-17,89740
+84,gopi krishnan t s ,North,E0379,Manufacturing,Full Time,2007-06-29,63440
+85,hari kumar mv ,North,E0520,Manufacturing,Full Time,2010-01-06,21220
+86,neena shiju,South,E0021,Manufacturing,Full Time,1998-05-06,63330
+87,nidhin rajan,North,E0220,Manufacturing,Full Time,2003-02-15,73390
+88,priyanka s t ,North,E0117,Manufacturing,Full Time,1999-09-10,40060
+89,resmi udhayakumar ,North,E0332,Manufacturing,Full Time,2007-01-09,46410
+90,ronson francis tf,North,E0231,Manufacturing,Half-Time,2003-07-13,48740
+91,rupa rajesh,North,E0074,Manufacturing,Full Time,1999-01-22,68300
+92,sajeev rajappan,North,E0397,Manufacturing,Contract,2007-08-04,76870
+93,sajith s menon,North,E0006,Manufacturing,Full Time,1998-01-31,31205
+94,sandhya r,North,E0526,Manufacturing,Full Time,2010-02-24,64390
+95,sangeetha mol .t.s,North,E0490,Manufacturing,Full Time,2008-12-01,54000
+96,saritha k k ,North,E0590,Manufacturing,Contract,2010-09-30,87830
+97,shinto varghese ,North,E0421,Manufacturing Admin,Full Time,2007-12-25,68860
+98,siju s,North,E0436,Manufacturing,Contract,2008-03-27,32880
+99,siyamol suraj,North,E0671,Manufacturing,Full Time,2011-09-01,29070
+100,soumya gopi,North,E0298,Manufacturing,Full Time,2006-06-06,59330
+101,soumya k s ,North,E0288,Marketing,Full Time,2006-04-09,44920
+102,sreekala suresh,North,E0511,Marketing,Full Time,2009-09-22,23190
+103,sunitha k m ,North,E0424,Marketing,Full Time,2008-01-01,83710
+104,surya suresh ,North,E0715,Marketing,Hourly,2012-05-27,22344
+105,thomas babu,North,E0143,Marketing,Full Time,2000-02-11,45450
+106,usha ms,North,E0083,Marketing,Full Time,1999-02-26,22475
+107,vishnu ullas,North,E0234,Marketing,Full Time,2003-08-15,76910
+108,ajay .j,Taft,E0633,Manufacturing,Contract,2011-02-13,89450
+109,amjithdev .p,North,E0619,Manufacturing,Contract,2011-01-07,80050
+110,anoop e r ,North,E0003,Manufacturing,Half-Time,1998-01-12,48835
+111,asha mohanan,North,E0568,Manufacturing,Full Time,2010-07-11,66840
+112,ashish chacko,North,E0349,Marketing,Contract,2007-03-03,64430
+113,awathy presannan,North,E0574,Manufacturing,Full Time,2010-08-05,57560
+114,bindhu vijayappan ,North,E0536,Manufacturing,Contract,2010-03-26,71190
+115,dayana sojan ,North,E0585,Manufacturing,Full Time,2010-09-03,39520
+116,divya shiju ,North,E0716,Manufacturing,Full Time,2012-06-10,73930
+117,eldho cherian,North,E0319,Product Development,Contract,2006-10-21,86470
+118,fransina rajesh,North,E0079,Product Development,Full Time,1999-02-07,81400
+119,jiji roby ,North,E0645,Manufacturing,Contract,2011-04-05,42990
+120,jiju philip,North,E0315,Manufacturing,Full Time,2006-09-26,36230
+121,jithin johnson,North,E0345,Manufacturing,Full Time,2007-02-21,45110
+122,jobin p.j,North,E0055,Manufacturing,Full Time,1998-10-14,82400
+123,jyothi krishna c,North,E0609,Product Development,Half-Time,2010-11-23,46230
+124,murali krishna b ,North,E0067,Professional Training Group,Full Time,1998-12-07,45000
+125,ajith c s ,Watson,E0111,Manufacturing,Contract,1999-08-03,71300
+126,ajitha k ,North,E0572,Manufacturing,Half-Time,2010-08-03,16925
+127,ambily biju,North,E0221,Quality Assurance,Full Time,2003-03-04,42800
+128,anandhu murali,North,E0134,Quality Assurance,Full Time,1999-12-20,48250
+129,anitha kumari p,North,E0676,Manufacturing,Full Time,2011-10-02,44560
+130,anumol g ,North,E0580,Manufacturing,Half-Time,2010-08-20,38105
+131,asha mol v.k ,North,E0600,Quality Assurance,Contract,2010-10-22,28260
+132,aswathy l,North,E0217,Manufacturing,Full Time,2003-01-04,82490
+133,froniya francis v ,North,E0233,Manufacturing,Hourly,2003-07-25,11044
+134,harish.v.s,North,E0492,Manufacturing,Contract,2008-12-03,80690
+135,jemin varghese,North,E0141,Manufacturing,Full Time,2000-02-01,15552
+136,jomol joseph,North,E0232,Quality Assurance,Full Time,2003-07-18,75420
+137,latha kumari s ,North,E0560,Manufacturing,Contract,2010-06-05,47280
+138,lekshmi rajan ,North,E0104,Manufacturing,Contract,1999-07-01,86970
+139,letha .c,North,E0425,Manufacturing,Full Time,2008-01-08,59420
+140,manju varghese ,North,E0237,Quality Assurance,Contract,2003-10-05,64220
+141,nisha mol. v,North,E0547,Quality Assurance,Half-Time,2010-04-25,11810
+142,preetha jayaraj,North,E0409,Quality Assurance,Full Time,2007-10-24,67890
+143,rahul pg,North,E0256,Quality Assurance,Full Time,2004-11-30,70760
+144,rahul s ,North,E0618,Quality Assurance,Full Time,2010-12-31,19044
+145,rakesh giri.gk,North,E0128,Quality Assurance,Full Time,1999-11-02,68410
+146,remya.s,North,E0271,Quality Assurance,Full Time,2006-02-26,80120
+147,renju b ,North,E0535,Quality Control,Contract,2010-03-22,45710
+148,reshmi salin ,North,E0275,Manufacturing,Full Time,2006-03-14,62688
+149,sakeer noushad,North,E0142,Manufacturing,Half-Time,2000-02-01,31250
+150,shajithamol.v.k,North,E0545,Manufacturing,Full Time,2010-04-24,61890
+151,sheeeja b,North,E0732,Manufacturing,Full Time,2012-10-13,25885
+152,sheela berling,North,E0481,Quality Control,Hourly,2008-10-26,10572
+153,sheenamol m.g,North,E0325,Manufacturing,Full Time,2006-12-12,86320
+154,shincy baiju,North,E0238,Manufacturing,Full Time,2003-11-11,30920
+155,sindhu manoj ,North,E0419,Manufacturing,Hourly,2007-12-01,23692
+156,sooraj.k.s,North,E0259,Quality Control,Full Time,2006-01-06,10630
+157,subin joseph,North,E0215,Quality Control,Full Time,2002-12-22,39740
+158,suma gp ,North,E0191,Quality Control,Contract,2001-09-07,25530
+159,sunitha c ,North,E0512,Quality Control,Full Time,2009-09-27,44150
+160,susha sudhakar  s k ,North,E0183,Quality Control,Contract,2001-06-23,77136
+161,simi ,West,E0702,Quality Control,Half-Time,2012-03-08,46380
+162,sreedevi tm ,North,E0129,Quality Control,Contract,1999-11-06,23560
+163,sreekkutty rajesh ,North,E0357,Manufacturing,Full Time,2007-03-16,47610
+164,sreeraj k.c,North,E0159,Manufacturing,Full Time,2000-06-21,23650
+165,subhash .m,North,E0407,Manufacturing,Full Time,2007-10-17,50570
+166,sudeesh kumar.s,North,E0566,Manufacturing,Full Time,2010-07-08,48800
+167,sudheesh v.s,North,E0311,Research/Development,Full Time,2006-09-10,83070
+168,sujith m s,North,E0065,Manufacturing,Full Time,1998-11-22,28880
+169,sunitha s ,North,E0189,Manufacturing,Full Time,2001-09-04,31110
+170,unni s ,North,E0622,Sales,Hourly,2011-01-18,30468
+171,vijeesh pk,North,E0263,Manufacturing,Contract,2006-01-21,25120
+172,vijitha ,North,E0281,Manufacturing,Half-Time,2006-03-29,13690
+173,vineesh m,North,E0502,Manufacturing,Full Time,2009-02-27,38575
+174,vineetha k.v,North,E0708,Manufacturing,Full Time,2012-04-15,34110
+175,vishnu devan ,North,E0185,Training,Full Time,2001-07-01,40680
+176,vishnu devarajan,North,E0153,Manufacturing,Full Time,2000-04-27,71380
+177,vishnu p.r,North,E0258,Manufacturing,Full Time,2004-12-26,81340
